@@ -6,7 +6,11 @@
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
+<<<<<<< HEAD
     "express": "4.pippo",
+=======
+    "express": "4.x",
+>>>>>>> 519550ec999c9c4327a39ce3a79a245c1ecf4974
     "html-errors": "latest"
   }
 }
